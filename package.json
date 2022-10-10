@@ -1,0 +1,24 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\"Error: no test specified\"&& exit 1"
+  },
+  "author": "\"\",",
+  "liecense": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatAkshay/hello-node.git"
+  },
+  "keywords": [
+    "home.html",
+    "project.html"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatAkshay/hello-node/issues"
+  },
+  "homepage": "https://github.com/venkatAkshay/hello-node#readme"
+}
